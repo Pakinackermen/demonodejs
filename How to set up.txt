@@ -1,0 +1,7 @@
+เวลาบัค บักอินมีปัญหา เมื่อใช้ template View อย่าง jade , ejs เพื่อ Using template engines with Express
+npm install pug --save
+
+แนวการทำ MVC
+1 set route ว่าให้ไป Path ไหน
+2 set controllers ว่าให้ทำอะไร เรียก file ไหน
+3 set config Express ให้มันทำงานใน Mudule ของเรา
